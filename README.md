@@ -27,7 +27,7 @@ This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.
 
 ## Installation
 
-* Clone this repository: `git clone https://github.com/ErmiasBahru/AirBnB_clone_v4.git`
+* Clone this repository: `git clone https://github.com/jooon2994/AirBnB_clone_v4.git`
 * Access AirBnb directory: `cd AirBnB_clone`
 * Run hbnb(interactively): `./console` and enter command
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
@@ -178,9 +178,10 @@ No known bugs at this time.
 
 ## Authors
 
-Kalab Sisay - [Github](https://github.com/KalabSisaySE) / [Linkedin](https://www.linkedin.com/in/kalab-sisay-65112b234/)
+Yohannis Aweke Tolcha - [Github](https://github.com/jooon2994) / [Linkedin](www.linkedin.com/in/yohannis-aweke-j1994)
 
-Ermias Bahru - [Github](https://github.com/ermiasbahru) / [Twitter](https://twitter.com/ermias_bahru)
+George Amankwah Agyenim -[github](https:)/
+[linkedin](www.linkedlin.com/in)
 
 Fourth part of Airbnb
 
